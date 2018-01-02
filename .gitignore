@@ -1,0 +1,7 @@
+node_modules
+build/**
+*/.eslintrc
+
+scripts/__pycache__
+scripts/bin
+scripts/lib
